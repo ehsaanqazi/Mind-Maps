@@ -8,3 +8,4 @@
 | 2   | Testing Authentication                  | [click here](https://github.com/ehsaanqazi/Mind-Maps/blob/master/Authentication.png)                                       | [click here](https://ehsaanqazi.com) |
 | 3   | Cross Site Scripting (XSS)              | [click here](https://github.com/ehsaanqazi/Mind-Maps/blob/master/XSS.png)                                                  | [click here](https://ehsaanqazi.com) |
 | 4   | Cross Site Request Forgery (CSRF)       | [click here](https://github.com/ehsaanqazi/Mind-Maps/blob/master/CSRF.png)                                                 | [click here](https://ehsaanqazi.com) |
+| 5   | API Testing                             | [click here](https://github.com/ehsaanqazi/Mind-Maps/blob/master/API%20Testing.png)                                        | [click here](https://ehsaanqazi.com) |
